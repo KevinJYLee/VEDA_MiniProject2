@@ -1,0 +1,3 @@
+/Users/junyoung/Proj1/MiniProj2/Server/build/CMakeFiles/MiniProject2_Server.dir
+/Users/junyoung/Proj1/MiniProj2/Server/build/CMakeFiles/edit_cache.dir
+/Users/junyoung/Proj1/MiniProj2/Server/build/CMakeFiles/rebuild_cache.dir
